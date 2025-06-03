@@ -30,6 +30,8 @@ function  loadSummaryData(anABContact : ABContact){
 
   function buildConcatenatedSummary(_abContactSummary : ABContactSummary) : String{
         return  _abContactSummary.toString()
-    //amitabh 
+    //amitabh
+
+    //Code changes 2 to test Version Control System
   }
 }
